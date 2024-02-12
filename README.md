@@ -1,7 +1,7 @@
 # PROJECTS
 
 ## Introduction
-These projects I "walked-through" with my tutor and mentor - Toyin.
+These projects I "walked-through" with my tutor and mentor.
 
 This first project in Pandas analysed "IT Developers Survey" with dataset of 89,184 rows by 84 columns
 
